@@ -8,13 +8,14 @@ theme_settings:
   title: Dalibo Weekly PostgreSQL10 lessons
   avatar: avatar.png
   gravatar: # Email MD5 hash
-  description: "Dalibo's githubpage for subscribing to the weekly PostgreSQL v.10 lessons" # used by search engines
+  description: "Dalibo's githubpage for the weekly PostgreSQL v.10 lessons" # used by search engines
 
   # Header and footer text
   header_text: >
-     <p>Dalibo's githubpage for subscribing to the weekly PostgreSQL v.10 lessons.</p>
+     <p>Dalibo's githubpage for the weekly PostgreSQL v.10 lessons.</p>
 
-     <p>Subscribe Here ! And receive postgreSQL10 articles and news, starting in septembre 2017</p>
+     <p>Subscribe Here ! And receive postgreSQL10 articles and news, starting in septembre 2017.
+     Read the "About" section to learn more about Weekly PostgreSQL10</p>
   header_text_feature_image:
   footer_text: >
   
