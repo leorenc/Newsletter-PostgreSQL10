@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
 baseurl: "/weekly-postgres10/" # the subpath of your site, e.g. /blog/
-url: "https://leorenc.github.io/weekly-postgres10" # the base hostname & protocol for your site
+url: "http://leorenc.github.io/weekly-postgres10" # the base hostname & protocol for your site
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
