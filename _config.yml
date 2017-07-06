@@ -1,21 +1,21 @@
 # SITE CONFIGURATION
-baseurl: "/weekly-postgres" # the subpath of your site, e.g. /blog/
-url: "http://leorenc.github.io/weekly-postgres" # the base hostname & protocol for your site
+baseurl: "/PostgreSQL10-lecons" # the subpath of your site, e.g. /blog/
+url: "http://leorenc.github.io/PostgreSQL10-lecons" # the base hostname & protocol for your site
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Dalibo Weekly PostgreSQL10 lessons
+  title: Dalibo PostgreSQL10 Leçons
   avatar: avatar.png
   gravatar: # Email MD5 hash
-  description: "Dalibo's githubpage for the weekly PostgreSQL v.10 lessons" # used by search engines
+  description: "La page Github de Dalibo pour les leçons PostgreSQL10" # used by search engines
 
   # Header and footer text
   header_text: >
-     <p>Dalibo's githubpage for the weekly PostgreSQL v.10 lessons.</p>
+     <p>La page Github de Dalibo pour les leçons PostgreSQL10.</p>
 
-     <p>Subscribe Here ! And receive postgreSQL10 articles and news, starting in septembre 2017.
-     Read the "About" section to learn more about Weekly PostgreSQL10</p>
+     <p>Inscrivez-vous ici! En vous inscrivant aux leçons PostgreSQL10 de Dalibo, vous reçevrez chaque semaine pendant 10 semaines un cours concernant la version 10 de PostgreSQL.
+     Chaque cours se compose simplement d'une batterie d'articles concernant une fonctionnalité de PostgreSQL 10. Ne vous en faites pas, la première semaine vous recevrez des articles présentant les bases de PostgreSQL 10.</p>
   header_text_feature_image:
   footer_text: >
   
