@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
-baseurl: "/PostgreSQL10-lecons" # the subpath of your site, e.g. /blog/
-url: "http://leorenc.github.io/PostgreSQL10-lecons" # the base hostname & protocol for your site
+baseurl: "/PostgreSQL-lecons" # the subpath of your site, e.g. /blog/
+url: "http://leorenc.github.io/PostgreSQL-lecons" # the base hostname & protocol for your site
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
